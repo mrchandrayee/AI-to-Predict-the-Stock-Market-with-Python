@@ -27,26 +27,16 @@ The predictions made by this project are for educational purposes only and shoul
 ## Installation
 Clone the repository and install the required packages:
 
-git clone 
-cd stock-market-prediction
-pip install -r requirements.txt
+git clone https://github.com/mrchandrayee/AI-to-Predict-the-Stock-Market-with-Python
 
 
-## Usage
-To run the stock prediction model, execute:
-
-
-
-
-## Contributing
-Contributions are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 Your Name - Chand Rayee
-Project Link:
+Project Link: https://github.com/mrchandrayee/AI-to-Predict-the-Stock-Market-with-Python
 
 
 
